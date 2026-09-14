@@ -5,3 +5,11 @@ Answer: When multiple people on different machines need access to shared code, G
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to the medical field. Different patients with the same symptoms may require different care based on data about their specific medical background; for example, someone with an allergy to a certain prescription medicine would need alternative care for an infection. Having databases of patient data could allow healthcare professionals to better keep track of the best care options for each patient they see.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging commits simply combines the latest commits of two branches into one, whereas rebasing commits goes through the entire history of commits and allows the commits of one branch to be rewritten on top of another branch's commits. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: COld weather and winter vibes!
